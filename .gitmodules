@@ -1,0 +1,3 @@
+[submodule "redux-counter-app"]
+	path = redux-counter-app
+	url = https://github.com/hong-sehyun/redux-counter-app.git
